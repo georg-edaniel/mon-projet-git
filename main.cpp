@@ -1,8 +1,8 @@
 /*
-  Titre      : Titre du programme
+  Titre      : debut sur Git    
   Auteur     :  Philip Moumie
   Date       : 09/12/2024
-  Description: Une description du programme
+  Description: Ajout du code local et distant
   Version    : 0.0.1
 */
 
